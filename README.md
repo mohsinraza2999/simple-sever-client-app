@@ -48,10 +48,10 @@ Content-Type: application/json
 ## File Structure
 bash
 .
-├── server.py             # Main FastAPI application \n
-├── clients_side.ipynb    # send queries and recieves responses \n
-├── requirements.txt    # Python dependencies \n
-├── README.md           # Project documentation \n
+├── server.py             # Main FastAPI application <br>
+├── clients_side.ipynb    # send queries and recieves responses <br>
+├── requirements.txt    # Python dependencies <br>
+├── README.md           # Project documentation <br>
 ## License
 This project is open-source and available under the MIT License.
 
