@@ -46,8 +46,7 @@ Content-Type: application/json
   "value": "Apricote","apple"
 }
 ## File Structure
-bash
-.
+
 ├── server.py             # Main FastAPI application <br>
 ├── clients_side.ipynb    # send queries and recieves responses <br>
 ├── requirements.txt    # Python dependencies <br>
